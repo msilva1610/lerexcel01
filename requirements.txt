@@ -1,0 +1,8 @@
+et-xmlfile==1.0.1
+jdcal==1.4.1
+nltk==3.2.4
+openpyxl==3.0.3
+preprocessing==0.1.13
+python-dateutil==2.8.1
+six==1.14.0
+sphinx-rtd-theme==0.2.4
